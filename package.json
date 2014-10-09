@@ -1,0 +1,19 @@
+{
+  "name": "node-logger",
+  "version": "0.0.0",
+  "description": "Logging service for Node.js apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CtrlLA/node-logger.git"
+  },
+  "author": "CTRL LA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CtrlLA/node-logger/issues"
+  },
+  "homepage": "https://github.com/CtrlLA/node-logger"
+}
