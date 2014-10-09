@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CtrlLA/node-logger/issues"
   },
-  "homepage": "https://github.com/CtrlLA/node-logger"
+  "homepage": "https://github.com/CtrlLA/node-logger",
+  "dependencies": {
+    "colors": "^1.0.2"
+  }
 }
