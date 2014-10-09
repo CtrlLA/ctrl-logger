@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CtrlLA/node-logger",
   "dependencies": {
-    "colors": "^1.0.2"
+    "colors": "^1.0.2",
+    "xtend": "^4.0.0"
   }
 }
