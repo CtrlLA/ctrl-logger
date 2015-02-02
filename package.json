@@ -1,23 +1,23 @@
 {
-    "name": "ctrl-logger",
-    "version": "0.0.0",
-    "description": "Logging service for Node.js apps.",
-    "main": "index.js",
-    "scripts": {
-        "test": "grunt test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:CtrlLA/ctrl-logger.git"
-    },
-    "author": "CTRL LA",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/CtrlLA/ctrl-logger/issues"
-    },
-    "homepage": "https://github.com/CtrlLA/ctrl-logger",
-    "dependencies": {
-        "colors": "^1.0.2",
-        "xtend": "^4.0.0"
-    }
+  "name": "ctrl-logger",
+  "version": "0.0.1",
+  "description": "Logging service for Node.js apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CtrlLA/ctrl-logger.git"
+  },
+  "author": "CTRL LA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CtrlLA/ctrl-logger/issues"
+  },
+  "homepage": "https://github.com/CtrlLA/ctrl-logger",
+  "dependencies": {
+    "colors": "^1.0.2",
+    "xtend": "^4.0.0"
+  }
 }
