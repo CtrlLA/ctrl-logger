@@ -1,6 +1,6 @@
 {
   "name": "ctrl-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Logging service for Node.js apps.",
   "main": "index.js",
   "scripts": {
